@@ -8,7 +8,8 @@ To run this code on your local system, please ensure the following prerequisties
 
 Once this is installed, please execute the following steps:
 - Click on the <> Code button
-- Open cmd and run git clone
+- Copy HTTPS
+- Open cmd and run git clone https://github.com/janedoe/my-project.git
 - Open project locally in VS Code
 - Run "pip install -r requirements.txt"
 - Run "streamlit run app_v2.py"
